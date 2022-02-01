@@ -54,7 +54,6 @@ const styles = theme =>({
 */
 
 class App extends Component{
-
   //변경될 수 있는 변수 : state
   state = {
     customers : ""
