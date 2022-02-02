@@ -51,6 +51,10 @@ const styles = theme =>({
 # 프록시 설정하기 
  react-scripts의 버전이 2 이상인 경우
  http-proxy-middleware를 설치해 setupProxy.js라는 파일을 통해 proxy 설정을 해줘야 한다.
+
+ 안됨. 
+
+ 해결중..
 */
 
 class App extends Component{
